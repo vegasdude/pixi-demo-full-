@@ -1,0 +1,9 @@
+{
+  "frames": {
+    "walk_0.png": {"frame":{"x":0,"y":0,"w":48,"h":64},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":48,"h":64},"sourceSize":{"w":48,"h":64}},
+    "walk_1.png": {"frame":{"x":48,"y":0,"w":48,"h":64},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":48,"h":64},"sourceSize":{"w":48,"h":64}},
+    "walk_2.png": {"frame":{"x":96,"y":0,"w":48,"h":64},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":48,"h":64},"sourceSize":{"w":48,"h":64}},
+    "walk_3.png": {"frame":{"x":144,"y":0,"w":48,"h":64},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":48,"h":64},"sourceSize":{"w":48,"h":64}}
+  },
+  "meta": {"app":"https://example","image":"player.png","size":{"w":192,"h":64}}
+}
