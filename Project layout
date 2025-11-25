@@ -1,0 +1,23 @@
+pixi-demo-upgrade/
+  ├── README.md
+  ├── package.json
+  ├── vite.config.js
+  ├── .gitignore
+  ├── public/
+  │     └── index.html
+  ├── src/
+  │     ├── main.js
+  │     ├── sceneManager.js
+  │     ├── scenes/
+  │     │     ├── menuScene.js
+  │     │     └── gameScene.js
+  │     └── systems/
+  │           ├── player.js
+  │           ├── controls.js
+  │           └── save.js
+  ├── .github/workflows/ci.yml
+  └── assets/
+        ├── player.png        (placeholder)
+        ├── player.json       (spritesheet JSON)
+        ├── coin.png          (placeholder)
+        └── music.ogg         (placeholder)
