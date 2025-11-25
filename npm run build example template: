@@ -1,0 +1,20 @@
+Built files will appear in `dist/`.
+
+---
+
+## 🤖 GitHub Actions (CI)
+
+This project includes a CI workflow:
+
+- Runs on every push to `main`
+- Installs dependencies
+- Builds with Vite  
+(Located at `.github/workflows/ci.yml`)
+
+---
+
+## 📝 License
+
+MIT — free to use, modify, and distribute for any project.
+
+See the full license in the `LICENSE` file.
