@@ -1,0 +1,12 @@
+pixi-demo-full/
+  ├── README.md
+  ├── LICENSE
+  ├── .gitignore
+  ├── package.json
+  ├── tsconfig.json
+  ├── vite.config.js
+  ├── public/index.html
+  ├── src/app.js
+  ├── src/app.ts
+  ├── assets/
+  └── .github/workflows/ci.yml
