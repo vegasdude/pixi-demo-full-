@@ -1,0 +1,15 @@
+# pixi-demo-upgrade
+
+Extended PixiJS starter project with:
+- Sprite sheet animation
+- Character movement & keyboard controls
+- Sound effects (Howler)
+- Scene manager (menu / game)
+- Save system (localStorage)
+- Full small-game template to expand
+
+## Run
+npm install
+npm run dev
+
+Open the Vite URL and test the demo.
