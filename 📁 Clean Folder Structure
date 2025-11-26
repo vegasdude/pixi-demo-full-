@@ -9,4 +9,4 @@ pixi-demo-full/
   ├── src/app.js
   ├── src/app.ts
   ├── assets/
-  └── .github/workflows/ci.yml
+  └── .github/workflows/ci.yml 
