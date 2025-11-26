@@ -6,4 +6,4 @@ pixi-demo/
   │     └── app.js      ← sample PixiJS code
   ├── public/
   │     └── index.html  ← loads Pixi and your script
-  └── assets/
+  └── assets/ 
